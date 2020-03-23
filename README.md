@@ -1,0 +1,6 @@
+Projekt: ...
+Autor: Ricarda Schuschnig
+Lizenz: ...
+
+Compilieren
+===========
